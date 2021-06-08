@@ -119,5 +119,6 @@ Once you're satisfied with the changes you've chosen to include in your commit, 
 
   For more information about protected branches, see "[About protected branches](/github/administering-a-repository/about-protected-branches)".
 
-  ![Protected branch warning](/assets/images/help/desktop/protected-branch-warning.png)
+  ![Protected branch warning](/ass![Screenshot_20210606-022614](https://user-images.githubusercontent.com/84280866/121121438-91aad280-c7ed-11eb-8f93-2d7beb23db08.png)
+ets/images/help/desktop/protected-branch-warning.png)
 {% data reusables.desktop.push-origin %}
